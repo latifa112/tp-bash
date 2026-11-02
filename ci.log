@@ -1,0 +1,7 @@
+[2026-11-02 20:53:25] Debut de l'integration continue.
+[2026-11-02 20:53:25] Clonage du depot.
+[2026-11-02 20:53:29] Verification des scripts.
+[2026-11-02 20:53:29] OK : check_disk.sh
+[2026-11-02 20:53:29] OK : backup.sh
+[2026-11-02 20:53:29] Tous les tests sont reussis.
+[2026-11-02 20:53:29] Fin de l'integration continue.
